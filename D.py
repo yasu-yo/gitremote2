@@ -1,0 +1,3 @@
+def godmornig():
+   print("おはようございます")
+
